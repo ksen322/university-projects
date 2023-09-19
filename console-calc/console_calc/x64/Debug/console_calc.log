@@ -1,0 +1,3 @@
+﻿  console_calc.cpp
+D:\vs projects\console_calc\console_calc.cpp(96): warning C4715: term: значение возвращается не при всех путях выполнения
+  console_calc.vcxproj -> D:\vs projects\console_calc\x64\Debug\console_calc.exe
