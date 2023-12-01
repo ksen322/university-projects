@@ -26,7 +26,7 @@
 ## Модель вычисления  
 За базовую формулу вычисления было взято следующее выражение: 
 
-` total = bilet + habitation + transport + food $$  `
+` total = bilet + habitation + transport + food `
 
 где <i>total</i> – итоговая стоимость поездки в город,  
 <i>bilet</i> – стоимость билета до города,  
