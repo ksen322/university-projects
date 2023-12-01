@@ -109,3 +109,13 @@
 3)	Осуществление ввода данных пользователем;
 4)	Осуществление расчета по математической модели, которая описана выше;
 5)	Вывод результата на экран.  
+
+## Вывод программы  
+После запуска программы в консоли появляются вопросы с выбором ответов:  
+![image](https://github.com/ksen322/university-projects/assets/119673458/0b51d978-ef6e-411d-99b5-41246f2c596d)  
+![image](https://github.com/ksen322/university-projects/assets/119673458/2c878e73-78ae-49e9-92df-6eca8dd782a2)  
+![image](https://github.com/ksen322/university-projects/assets/119673458/5abfef9d-1f58-4f40-99a0-a56406fb4f53)  
+![image](https://github.com/ksen322/university-projects/assets/119673458/0b0f9e0d-1de0-4fe6-bd08-e0cc3e4babb1)
+
+
+
